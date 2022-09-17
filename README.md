@@ -7,6 +7,7 @@ En raison de la forte charge de travail requise pour ce que nous voulions mettre
 ## TUTO comment ajouter des fichiers sur le cloud
 Pour ajouter les nouveaux documments, créer un fork du repo
 
+![alt text](https://github.com/uliegeCSS/cloud_css/blob/main/ressources/fork.png?raw=true)
 image.fork
 
 Ensuite installé l'extention suivante sur vscode:
@@ -17,7 +18,8 @@ Une fois l'extention installé, vous devrez vous connecter à votre compte githu
 
 Ensuite cliqué sur le bouton bleu en bas à gauche de vscode.
 
-image.remotehub
+
+![alt text](https://github.com/uliegeCSS/cloud_css/blob/main/ressources/remoterepo.png?raw=true)
 
 Une fois que vous avez cliqué une fenêtre s'ouvrira et vous devrez cliqué sur "open remote repository" et la vous insérez le lien de votre fork créé plutot.
 Ca sera un lien de ce genre: https://github.com/SkYF4Il/cloud_css, ici SkYF4Il c'est mon pseudo vous aurez le votre.
@@ -27,20 +29,18 @@ Maintenant vous pouvez ajouter vos documents de tout genre dans les dossiers tem
 Mais c'est quoi un merge request ? c'est ce que vous devrez faire pour pouvoir modifier le cloud sinon ca sera trop facile ^^.
 Pour ce faire vous devez d'abord commit vos modification
 
-image.commit
+![alt text](https://github.com/uliegeCSS/cloud_css/blob/main/ressources/commit.png?raw=true)
 
 Vous devrez pour se faire cliqué sur le bouton "..." en haut à gauche et qui ressemble a un "V" et qui s'appel "source control", ensuite vous devrez écrire un message de commit et cliquer sur le "V" qui ressemble à un correct appelé commit and push.
 
-image.pullrequest
+![alt text](https://github.com/uliegeCSS/cloud_css/blob/main/ressources/pullrequest.png?raw=true)
 
 Une fois que vous avez commit et push vos modification vous devrez cliqué sur le bouton "pull request".
 
-image.pullrequest2
+![alt text](https://github.com/uliegeCSS/cloud_css/blob/main/ressources/pullrequest2.png?raw=true)
 
 et pour finir sur "create"
 
-
-# ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 
 et ensuite ajouter les documents dans le dossier "temporaire" de chaque cours. 
