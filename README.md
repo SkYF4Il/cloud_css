@@ -19,7 +19,7 @@ Une fois l'extention installé, vous devrez vous connecter à votre compte githu
 Ensuite cliqué sur le bouton bleu en bas à gauche de vscode.
 
 
-![alt text](https://github.com/uliegeCSS/cloud_css/blob/main/ressources/remoterepo.png?raw=true)
+![alt text](https://github.com/uliegeCSS/cloud_css/blob/main/ressources/remoteRepo.png?raw=true)
 
 Une fois que vous avez cliqué une fenêtre s'ouvrira et vous devrez cliqué sur "open remote repository" et la vous insérez le lien de votre fork créé plutot.
 Ca sera un lien de ce genre: https://github.com/SkYF4Il/cloud_css, ici SkYF4Il c'est mon pseudo vous aurez le votre.
