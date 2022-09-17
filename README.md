@@ -36,4 +36,8 @@ et pour finir sur "create"
 
 ![alt text](https://github.com/uliegeCSS/cloud_css/blob/main/ressources/pullrequest2.png?raw=true)
 
+Et avant de faire tout ca n'ouvlier pas de synchroniser votre fork avec le repo principal. Pour se faire vous devrez cliqué sur le bouton "sync fork".
+
+![alt text](https://github.com/uliegeCSS/cloud_css/blob/main/ressources/sync.png?raw=true)
+
 Vous pouvez utiliser ce tuto également https://rogerdudler.github.io/git-guide/ mais ce n'est pas ce que j'utilise donc je ne peux pas vous garantir le fonctionnement.
