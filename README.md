@@ -35,6 +35,10 @@ image.pullrequest
 
 Une fois que vous avez commit et push vos modification vous devrez cliqué sur le bouton "pull request".
 
+image.pullrequest2
+
+et pour finir sur "create"
+
 
 # ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
