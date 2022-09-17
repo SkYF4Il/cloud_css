@@ -8,30 +8,28 @@ En raison de la forte charge de travail requise pour ce que nous voulions mettre
 Pour ajouter les nouveaux documments, créer un fork du repo
 
 ![alt text](https://github.com/uliegeCSS/cloud_css/blob/main/ressources/fork.png?raw=true)
-image.fork
 
-Ensuite installé l'extention suivante sur vscode:
-https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub
-Vous devrez également installer d'autres extensions pour vscode mais elles vous seront proposé lors de l'installation de l'extention précédente.
-
-Une fois l'extention installé, vous devrez vous connecter à votre compte github. Pour cela, cliquez sur le bouton "github" en bas à gauche de vscode.
+Ensuite installé l'extention suivante sur vscode: https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub
+Vous devrez également installer d'autres extensions pour vscode mais elles vous seront proposé lors de l'installation de l'extention précédente. Une fois l'extention installé, vous devrez vous connecter à votre compte github. Pour cela, cliquez sur le bouton "github" en bas à gauche de vscode.
 
 Ensuite cliqué sur le bouton bleu en bas à gauche de vscode.
-
 
 ![alt text](https://github.com/uliegeCSS/cloud_css/blob/main/ressources/remoteRepo.png?raw=true)
 
 Une fois que vous avez cliqué une fenêtre s'ouvrira et vous devrez cliqué sur "open remote repository" et la vous insérez le lien de votre fork créé plutot.
+
+![alt text](https://github.com/uliegeCSS/cloud_css/blob/main/ressources/console.png?raw=true)
+
 Ca sera un lien de ce genre: https://github.com/SkYF4Il/cloud_css, ici SkYF4Il c'est mon pseudo vous aurez le votre.
 
 Maintenant vous pouvez ajouter vos documents de tout genre dans les dossiers temporaires de chaques cours. Merci de respecter les ajouts dans les dossiers temporaires sinon vos document ne seront pas accepté durant le merge request ! 
 
-Mais c'est quoi un merge request ? c'est ce que vous devrez faire pour pouvoir modifier le cloud sinon ca sera trop facile ^^.
-Pour ce faire vous devez d'abord commit vos modification
+Mais c'est quoi un merge request ? c'est ce que vous devrez faire pour pouvoir modifier le cloud sinon ca serait trop facile ^^.
+Pour se faire vous devez d'abord commit vos modifications.
 
 ![alt text](https://github.com/uliegeCSS/cloud_css/blob/main/ressources/commit.png?raw=true)
 
-Vous devrez pour se faire cliqué sur le bouton "..." en haut à gauche et qui ressemble a un "V" et qui s'appel "source control", ensuite vous devrez écrire un message de commit et cliquer sur le "V" qui ressemble à un correct appelé commit and push.
+Vous devrez pour se faire cliqué sur le bouton ![alt text](https://github.com/uliegeCSS/cloud_css/blob/main/ressources/sourceC.png?raw=true) en haut à gauche et qui ressemble a un "V" et qui s'appel "source control", ensuite vous devrez écrire un message de commit et cliquer sur le "V" qui ressemble à un correct appelé commit and push.
 
 ![alt text](https://github.com/uliegeCSS/cloud_css/blob/main/ressources/pullrequest.png?raw=true)
 
