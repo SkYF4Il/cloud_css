@@ -16,32 +16,24 @@ Ensuite cliqué sur le bouton bleu en bas à gauche de vscode.
 
 ![alt text](https://github.com/uliegeCSS/cloud_css/blob/main/ressources/remoteRepo.png?raw=true)
 
-Une fois que vous avez cliqué une fenêtre s'ouvrira et vous devrez cliqué sur "open remote repository" et la vous insérez le lien de votre fork créé plutot.
+Une fois que vous avez cliqué une fenêtre s'ouvrira et vous devrez cliqué sur "open remote repository" et la vous insérez le lien de votre fork créé plutot. Ca sera un lien de ce genre: https://github.com/SkYF4Il/cloud_css, ici SkYF4Il c'est mon pseudo vous aurez le votre.
 
 ![alt text](https://github.com/uliegeCSS/cloud_css/blob/main/ressources/console.png?raw=true)
-
-Ca sera un lien de ce genre: https://github.com/SkYF4Il/cloud_css, ici SkYF4Il c'est mon pseudo vous aurez le votre.
 
 Maintenant vous pouvez ajouter vos documents de tout genre dans les dossiers temporaires de chaques cours. Merci de respecter les ajouts dans les dossiers temporaires sinon vos document ne seront pas accepté durant le merge request ! 
 
 Mais c'est quoi un merge request ? c'est ce que vous devrez faire pour pouvoir modifier le cloud sinon ca serait trop facile ^^.
 Pour se faire vous devez d'abord commit vos modifications.
+Vous devrez pour se faire cliqué sur le bouton ![alt text](https://github.com/uliegeCSS/cloud_css/blob/main/ressources/sourceC.png?raw=true) en haut à gauche, ensuite vous devrez écrire un message de commit(bref description de vos modifictions par exemple "B1 Q1 ajout synthèse math info") et cliquer sur le ![alt text](https://github.com/uliegeCSS/cloud_css/blob/main/ressources/correct.png?raw=true).
 
 ![alt text](https://github.com/uliegeCSS/cloud_css/blob/main/ressources/commit.png?raw=true)
 
-Vous devrez pour se faire cliqué sur le bouton ![alt text](https://github.com/uliegeCSS/cloud_css/blob/main/ressources/sourceC.png?raw=true) en haut à gauche et qui ressemble a un "V" et qui s'appel "source control", ensuite vous devrez écrire un message de commit et cliquer sur le "V" qui ressemble à un correct appelé commit and push.
+Une fois que vous avez commit et push vos modification vous devrez cliqué sur le bouton "pull request".
 
 ![alt text](https://github.com/uliegeCSS/cloud_css/blob/main/ressources/pullrequest.png?raw=true)
 
-Une fois que vous avez commit et push vos modification vous devrez cliqué sur le bouton "pull request".
+et pour finir sur "create"
 
 ![alt text](https://github.com/uliegeCSS/cloud_css/blob/main/ressources/pullrequest2.png?raw=true)
 
-et pour finir sur "create"
-
-
-
-et ensuite ajouter les documents dans le dossier "temporaire" de chaque cours. 
-Et ensuite faite un pull request que nous accepterons. Si vous fichier sont plus gros que 25MB vous ne pourrez pas les upload via votre navigateur. 
-
-Vous pouvez utilisez github avec vscode et faire la meme demarche que sur navigateur mais avec vscode(Tuto soonTM ou ce tuto https://rogerdudler.github.io/git-guide/ mais c'est pas via vscode).
+Vous pouvez utiliser ce tuto également https://rogerdudler.github.io/git-guide/ mais ce n'est pas ce que j'utilise donc je ne peux pas vous garantir le fonctionnement.
