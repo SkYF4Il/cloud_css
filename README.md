@@ -24,15 +24,10 @@ Maintenant vous pouvez ajouter vos documents de tout genre dans les dossiers tem
 
 Mais c'est quoi un merge request ? c'est ce que vous devrez faire pour pouvoir modifier le cloud sinon ca serait trop facile ^^.
 Pour se faire vous devez d'abord commit vos modifications.
-Vous devrez pour se faire cliqué sur le bouton ![alt text](https://github.com/uliegeCSS/cloud_css/blob/main/ressources/sourceC.png?raw=true) en haut à gauche, ensuite vous devrez écrire un message de commit(bref description de vos modifictions par exemple "B1 Q1 ajout synthèse math info") et cliquer sur le ![alt text](https://github.com/uliegeCSS/cloud_css/blob/main/ressources/correct.png?raw=true).
+Vous devrez pour se faire cliqué sur le bouton ![alt text](https://github.com/uliegeCSS/cloud_css/blob/main/ressources/sourceC.png?raw=true) en haut à gauche, ensuite vous devrez écrire un message de commit(bref description de vos modifictions par exemple "B1 Q1 ajout synthèse math info") et cliquer sur ![alt text](https://github.com/uliegeCSS/cloud_css/blob/main/ressources/correct.png?raw=true).
 
 ![alt text](https://github.com/uliegeCSS/cloud_css/blob/main/ressources/commit.png?raw=true)
 
-Vous devrez cliquer sur le bouton ![alt text](https://github.com/uliegeCSS/cloud_css/blob/main/ressources/sourceC.png?raw=true), ensuite vous devrez écrire un message de commit et cliquer sur le "V" qui ressemble à un correct appelé commit and push.
-
-![alt text](https://github.com/uliegeCSS/cloud_css/blob/main/ressources/pullrequest.png?raw=true)
-
->>
 Une fois que vous avez commit et push vos modification vous devrez cliqué sur le bouton "pull request".
 
 ![alt text](https://github.com/uliegeCSS/cloud_css/blob/main/ressources/pullrequest.png?raw=true)
