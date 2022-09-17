@@ -28,6 +28,11 @@ Vous devrez pour se faire cliqué sur le bouton ![alt text](https://github.com/u
 
 ![alt text](https://github.com/uliegeCSS/cloud_css/blob/main/ressources/commit.png?raw=true)
 
+Vous devrez cliquer sur le bouton ![alt text](https://github.com/uliegeCSS/cloud_css/blob/main/ressources/sourceC.png?raw=true), ensuite vous devrez écrire un message de commit et cliquer sur le "V" qui ressemble à un correct appelé commit and push.
+
+![alt text](https://github.com/uliegeCSS/cloud_css/blob/main/ressources/pullrequest.png?raw=true)
+
+>>
 Une fois que vous avez commit et push vos modification vous devrez cliqué sur le bouton "pull request".
 
 ![alt text](https://github.com/uliegeCSS/cloud_css/blob/main/ressources/pullrequest.png?raw=true)
