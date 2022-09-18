@@ -1,0 +1,91 @@
+Country name;BienEtre;LogPIB;EspVie;Generosite;Gini
+Albania;5.36;9.50;69.30;G;0.29
+Argentina;5.90;9.85;69.20;PeuG;0.40
+Australia;7.14;10.76;74.20;G;0.33
+Austria;7.21;10.85;73.60;G;0.27
+Bahrain;6.17;10.62;69.70;G;0.60
+Bangladesh;5.28;8.47;65.30;PeuG;0.44
+Belgium;6.84;10.77;72.40;PeuG;0.26
+Benin;4.41;8.10;55.10;PeuG;0.48
+Bolivia;5.56;9.00;64.20;PeuG;0.44
+Bosnia and Herzegovina;5.52;9.58;68.40;G;0.33
+Brazil;6.11;9.52;66.80;PeuG;0.54
+Bulgaria;5.60;9.99;67.20;PeuG;0.40
+Cambodia;4.38;8.36;62.40;G;0.36
+Cameroon;5.24;8.17;54.30;G;0.47
+Canada;7.02;10.73;74.00;G;0.35
+Chile;6.15;10.02;70.10;G;0.46
+China;5.77;9.70;69.90;PeuG;0.47
+Colombia;5.71;9.50;68.30;PeuG;0.52
+Croatia;6.51;10.17;71.40;PeuG;0.30
+Cyprus;6.26;;74.10;G;0.29
+Czech Republic;6.90;10.53;71.30;PeuG;0.24
+Denmark;7.51;10.91;115.87;G;0.28
+Dominican Republic;5.17;9.80;66.40;PeuG;0.44
+Ecuador;5.35;9.24;69.10;PeuG;0.45
+Egypt;4.47;9.38;62.30;PeuG;0.32
+El Salvador;5.46;9.02;66.70;PeuG;0.41
+Estonia;6.45;10.46;69.00;PeuG;0.31
+Ethiopia;4.55;7.71;59.50;G;0.33
+Finland;7.89;10.75;72.10;PeuG;0.26
+France;6.71;10.64;74.20;PeuG;0.29
+Georgia;5.12;9.57;64.10;PeuG;0.38
+Germany;7.31;10.83;72.80;PeuG;0.31
+Ghana;5.32;8.59;58.00;G;0.44
+Greece;5.79;10.21;72.80;PeuG;0.32
+Hungary;6.04;10.34;68.40;PeuG;0.29
+Iceland;7.58;10.82;73.00;G;0.24
+India;4.23;8.70;60.90;G;0.39
+Iran;4.86;;66.60;PeuG;0.40
+Iraq;4.79;9.17;61.40;PeuG;0.33
+Ireland;7.03;11.32;72.50;G;0.31
+Israel;7.19;10.54;73.70;PeuG;0.34
+Italy;6.49;10.56;74.00;PeuG;0.33
+Ivory Coast;5.26;8.56;50.70;G;0.49
+Japan;6.12;10.58;75.20;PeuG;0.34
+Jordan;4.09;9.15;67.20;PeuG;0.33
+Kazakhstan;6.17;10.14;65.80;PeuG;0.27
+Kenya;4.55;8.37;61.30;G;0.41
+Kyrgyzstan;6.25;8.50;64.70;G;0.27
+Laos;5.28;8.96;59.50;G;0.36
+Latvia;6.23;10.30;67.40;PeuG;0.36
+Lithuania;6.39;10.50;68.50;PeuG;0.37
+Mauritius;6.02;9.97;67.00;PeuG;0.38
+Mexico;5.96;9.78;68.90;PeuG;0.48
+Moldova;5.81;9.46;66.40;PeuG;0.26
+Mongolia;6.01;9.40;62.70;G;0.32
+Montenegro;5.72;9.91;68.90;G;0.32
+Morocco;4.80;8.87;66.50;PeuG;0.40
+Myanmar;4.43;8.55;59.60;G;0.38
+Namibia;4.45;9.10;57.10;PeuG;0.58
+Netherlands;7.50;10.90;72.50;G;0.27
+New Zealand;7.26;10.60;73.60;G;0.34
+Nigeria;5.50;8.48;50.50;G;
+North Macedonia;5.05;9.69;65.56;G;0.32
+Norway;7.29;11.04;73.40;G;0.25
+Philippines;5.08;9.06;62.10;PeuG;0.42
+Poland;6.14;10.37;70.10;PeuG;0.28
+Portugal;5.77;10.37;72.80;PeuG;0.32
+Russia;5.50;10.16;65.10;PeuG;0.35
+Saudi Arabia;6.56;10.70;66.90;PeuG;0.46
+Serbia;6.04;9.79;69.00;G;0.38
+Slovakia;6.52;10.33;69.50;PeuG;0.23
+Slovenia;6.46;10.48;71.70;PeuG;1.12
+South Africa;4.95;9.33;57.30;PeuG;0.65
+South Korea;5.79;10.65;74.20;PeuG;0.36
+Spain;6.50;10.49;75.00;PeuG;0.33
+Sweden;7.31;10.84;72.80;G;0.27
+Switzerland;7.51;11.08;74.70;PeuG;0.30
+Tajikistan;5.37;8.08;64.70;PeuG;0.34
+Tanzania;3.79;7.88;58.50;G;-0.21
+Thailand;5.88;9.77;67.60;G;0.35
+Tunisia;4.73;9.23;67.50;PeuG;0.33
+Turkey;4.86;10.22;67.60;PeuG;0.41
+Uganda;4.64;7.68;56.50;G;0.43
+Ukraine;5.27;9.43;65.20;G;0.25
+United Arab Emirates;6.46;11.05;67.50;G;0.38
+United Kingdom;6.80;10.63;72.70;G;0.34
+United States;7.03;11.00;68.10;G;0.48
+Uruguay;6.31;9.94;69.20;PeuG;0.39
+Zambia;4.84;8.12;56.30;G;0.57
+Zimbabwe;3.16;7.83;56.80;PeuG;0.40
