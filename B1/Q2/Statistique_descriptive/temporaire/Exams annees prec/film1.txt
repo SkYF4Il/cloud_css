@@ -1,0 +1,150 @@
+Title;IMDbRating;Runtime;Year;Types;NumberVotes
+The Game;7.8;129;1997;drama;192744
+Babe;6.9; 89;1995;drama; 75928
+Goodfellas;8.8;146;1990;biography;507296
+Trainspotting;8.2; 94;1996;crime;339012
+the 120 Days of Sodom;6.0;116;1975;drama; 28058
+Manhattan;8.1; 96;1979;comedy; 82195
+Lost Highway;7.7;134;1997;drama; 75730
+The Graduate;8.1;106;1967;comedy;159379
+As Good as It Gets;7.8;139;1997;comedy;187605
+The Barber of Siberia;7.8;180;1998;comedy;  7495
+Burnt by the Sun;8.0;135;1994;drama;  9086
+Red Desert;7.7;117;1964;drama;  6453
+Taste of Cherry;7.7; 95;1997;drama; 10482
+Character;7.8;122;1997;crime;  8205
+Ashes of Time;7.2;100;1994;action;  8097
+The Bear;7.7; 96;1988;adventure; 10562
+Turkish Delight;7.2;108;1973;drama;  6240
+The Rules of the Game;8.1;110;1939;comedy; 16361
+Tightrope;6.3;114;1984;crime;  8808
+Jules and Jim;7.9;105;1962;drama; 21194
+The Gods Must Be Crazy II;6.7; 98;1989;comedy;  9720
+The Hidden Fortress;8.0;139;1958;adventure; 18846
+Salvador;7.5;122;1986;drama; 12565
+Arizona Dream;7.4;142;1992;comedy; 28439
+The Searchers;8.0;119;1956;western; 50034
+Ran;8.3;162;1985;action; 58073
+Rashomon;8.4; 88;1950;crime; 73265
+Yojimbo;8.4;110;1961;action; 52800
+Stealing Beauty;6.6;118;1996;drama; 16488
+The Gods Must Be Crazy;7.2;109;1980;action; 35330
+Charade;8.1;113;1963;comedy; 38421
+Repulsion;7.8;105;1965;horror; 26295
+Withnail & I;7.9;107;1987;comedy; 24469
+Ikiru;8.4;143;1952;drama; 29039
+The Runner;8.0; 94;1990;drama;   686
+The Firemen s Ball;7.7; 71;1967;comedy;  4739
+Buddy Goes West;6.6; 90;1981;comedy;  1371
+Padre padrone;7.4;114;1977;biography;  1971
+Fight Club;8.9;139;1999;drama;886203
+Bashu, the Little Stranger;8.1;120;1990;drama;  1119
+A Railway Station for Two;8.0;141;1982;romance;  1236
+Se7en;8.7;127;1995;crime;680913
+Lock, Stock and Two Smoking Barrels;8.2;107;1998;comedy;300367
+Fear and Loathing in Las Vegas;7.8;118;1998;comedy;170280
+Magnolia;8.0;188;1999;drama;203383
+Seven Samurai;8.8;207;1954;action;170654
+Interview with the Vampire: The Vampire Chronicles;7.6;123;1994;horror;191270
+Legends of the Fall;7.5;133;1994;drama; 84238
+Sleepers;7.5;147;1996;crime;126631
+Metropolis;8.4;153;1927;drama; 79888
+Caligula;5.2;156;1979;adult; 22787
+Lolita;6.9;137;1997;drama; 27937
+Life of Brian;8.2; 94;1979;comedy;196167
+Easy Rider;7.4; 95;1969;drama; 60811
+The Unbearable Lightness of Being;7.4;171;1988;drama; 21781
+Raising Arizona;7.5; 94;1987;comedy; 80062
+8aout;8.2;138;1963;drama; 57701
+Nosferatu;8.0; 94;1922;horror; 55324
+La Dolce Vita;8.1;174;1960;comedy; 35111
+Fanfare;7.6; 86;1958;comedy;   498
+The Decameron;7.1;112;1971;comedy;  5180
+Spetters;6.6;120;1980;drama;  3053
+M. Butterfly;6.8;101;1993;drama;  5459
+Andrei Rublev;8.3;205;1966;biography; 18097
+Arabian Nights;6.9;130;1974;comedy;  3863
+The Canterbury Tales;6.4;112;1972;comedy;  3348
+Ivan s Childhood;8.1; 95;1962;drama; 12715
+The Twelve Chairs;6.6; 94;1970;adventure;  3213
+Roger & Me;7.5; 91;1989;documentary; 20121
+Kafka;7.0; 98;1991;comedy;  6612
+The Tenant;7.8;126;1976;mystery; 20851
+Mighty Aphrodite;7.1; 95;1995;comedy; 25691
+Hideous Kinky;6.1; 98;1998;drama;  4754
+Zorba the Greek;7.8;142;1964;adventure; 12309
+Europa;7.7;112;1991;drama; 12945
+Love and Death;7.8; 85;1975;comedy; 21085
+The Thin Blue Line;8.1;103;1988;documentary; 10023
+Zelig;7.8; 79;1983;comedy; 24653
+Barry Lyndon;8.1;184;1975;adventure; 73826
+The Jerk;7.2; 94;1979;comedy; 34406
+The Idiots;6.9;117;1998;comedy; 18815
+Dead Ringers;7.4;116;1988;drama; 22446
+Videodrome;7.3; 87;1983;horror; 44341
+Antonia s Line;7.5;102;1995;comedy;  6016
+Lili Marleen;7.2;120;1981;drama;  2236
+The War Room;7.5; 96;1993;documentary;  2294
+Titanic;7.7;194;1997;drama;555358
+American Beauty;8.5;122;1999;drama;595203
+Psycho;8.6;109;1960;horror;292361
+Family Guy;8.5; 22;1999;animation;165126
+Forrest Gump;8.8;142;1994;drama;785150
+Marrakech Express;7.4;110;1989;adventure;  1138
+Schindler s List;8.9;195;1993;biography;590307
+The Big Lebowski;8.2;117;1998;comedy;375647
+The Silence of the Lambs;8.6;118;1991;crime;574529
+A Clockwork Orange;8.4;136;1971;crime;382070
+South Park;8.9; 22;1997;animation;156864
+Eyes Wide Shut;7.3;159;1999;drama;177757
+One Flew Over the Cuckoo s Nest;8.8;133;1975;drama;484714
+The Shining;8.5;144;1980;horror;412221
+Full Metal Jacket;8.4;116;1987;drama;329828
+Braveheart;8.4;177;1995;action;516804
+Airplane!;7.8; 88;1980;comedy;120350
+Rocky;8.1;119;1976;drama;240030
+Platoon;8.2;120;1986;action;215134
+Amadeus;8.4;160;1984;biography;195720
+The Deer Hunter;8.2;182;1978;drama;172510
+Rain Man;8.0;133;1988;drama;304089
+The Elephant Man;8.3;124;1980;biography;118595
+Groundhog Day;8.1;101;1993;comedy;304405
+Dances with Wolves;8.0;181;1990;adventure;141565
+Some Like It Hot;8.4;120;1959;comedy;128082
+Gattaca;7.8;106;1997;drama;162777
+Curb Your Enthusiasm;8.8; 30;1999;comedy; 48199
+The Sting;8.4;129;1973;comedy;125899
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb;8.6; 95;1964;comedy;260381
+Shakespeare in Love;7.2;123;1998;comedy;140871
+The English Patient;7.4;162;1996;drama;109516
+Animal House;7.7;109;1978;comedy; 73902
+Pi;7.5; 84;1998;sci_fi;115202
+Annie Hall;8.2; 93;1977;comedy;136734
+Young Frankenstein;8.1;106;1974;comedy; 91549
+Blazing Saddles;7.8; 93;1974;comedy; 73573
+Lolita;7.7;152;1962;drama; 50960
+The Birds;7.8;119;1963;horror; 98872
+Caddyshack;7.4; 98;1980;comedy; 63279
+Out of Africa;7.2;161;1985;biography; 38021
+Breaking the Waves;7.9;159;1996;drama; 38236
+A Fish Called Wanda;7.6;108;1988;comedy; 91412
+Hombre;7.4;111;1967;western;  6337
+The Wages of Fear;8.3;131;1953;adventure; 24358
+War and Peace;6.8;208;1956;drama;  5392
+I.Q.;6.2;100;1994;comedy; 17055
+Nobody s Fool;7.4;110;1994;comedy; 12727
+Funny Games;7.6;108;1997;crime; 32244
+Serpico;7.8;130;1973;biography; 56485
+Five Easy Pieces;7.5; 98;1970;drama; 20163
+The Godfather;9.2;175;1972;crime;809811
+The Godfather: Part II;9.1;200;1974;crime;532686
+The Godfather: Part III;7.6;162;1990;crime;188279
+To Kill a Mockingbird;8.4;129;1962;crime;152794
+Once Upon a Time in America;8.4;229;1984;crime;157390
+Cool Hand Luke;8.2;126;1967;crime; 89534
+Scent of a Woman;7.9;157;1992;drama;149692
+North by Northwest;8.5;136;1959;action;164106
+Deliverance;7.8;110;1972;adventure; 63474
+Falling Down;7.6;113;1993;crime;109893
+Dog Day Afternoon;8.1;125;1975;crime;135962
+Happiness;7.8;134;1998;comedy; 46451
