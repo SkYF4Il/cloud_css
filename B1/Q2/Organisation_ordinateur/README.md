@@ -35,26 +35,26 @@ vous retrouverez ici tout ce que les prof ne veulent pas que vous ayez pour évi
 
 ===== Theory =====
 
-* [1_l'information]
-* [2_la quantité d'information]
-* [3_lareprésentation binaire des nombres]
-* [4_la représentation des nombres entiers signés]
-* [5_la représentation par complément à deux]
-* [6_la représentation des nombres réels]
-* [7_la virgule flottante]
-* [8_la représentation des caractères]
-* [9_les composants de l'ordinateu]
-* [10_l'adressage, l'alignement, et la structure du processeur]
-* [11_le fonctionnement du processeur]
-* [12_l'architecture x86-64: registres et modes d'adressage]
-* [13_l'architecture x86-64: manipulation des données et opérations arithmétiques]
-* [14_l'architecture x86-64: instructions logiques]
-* [15_l'architecture x86-64: gestion de la pile]
-* [16_l'architecture x86-64: instructions de contrôle]
-* [17_la programmation en assembleur: introduction]
-* [18_la programmation en assembleur: segment de données]
-* [19_la programmation en assembleur: convention d'appel des fonctions]
-* [20_la programmation en assembleur: exemples supplémentaires]
+* [1_l'information](https://dox.uliege.be/index.php/s/Ncn5QkInQJZrPJW)
+* [2_la quantité d'information](https://dox.uliege.be/index.php/s/AejVas72Y0ymVoW)
+* [3_lareprésentation binaire des nombres](https://dox.uliege.be/index.php/s/WlT3mWj9E3xvZP8)
+* [4_la représentation des nombres entiers signés](https://dox.uliege.be/index.php/s/9cIrZjo1oprtfel)
+* [5_la représentation par complément à deux](https://dox.uliege.be/index.php/s/wUCg5zbjEGn2bGg)
+* [6_la représentation des nombres réels](https://dox.uliege.be/index.php/s/R8R01vtk9lKH65G)
+* [7_la virgule flottante](https://dox.uliege.be/index.php/s/iqfGqfI2WGDnYUv)
+* [8_la représentation des caractères](https://dox.uliege.be/index.php/s/EG9CSkM7HSSHl4A)
+* [9_les composants de l'ordinateu](https://dox.uliege.be/index.php/s/5JE5Y2Sq1F3Ek45)
+* [10_l'adressage, l'alignement, et la structure du processeur](https://dox.uliege.be/index.php/s/1ZSQBAvKR50USzW)
+* [11_le fonctionnement du processeur](https://dox.uliege.be/index.php/s/KTYgegbDT9AJUDk)
+* [12_l'architecture x86-64: registres et modes d'adressage](https://dox.uliege.be/index.php/s/92ip0gqNNfJAfvT)
+* [13_l'architecture x86-64: manipulation des données et opérations arithmétiques](https://dox.uliege.be/index.php/s/bLAHJSOUh08PoZc)
+* [14_l'architecture x86-64: instructions logiques](https://dox.uliege.be/index.php/s/dk7dZm13S8GXFje)
+* [15_l'architecture x86-64: gestion de la pile](https://dox.uliege.be/index.php/s/dMG2vojLc64ODRU)
+* [16_l'architecture x86-64: instructions de contrôle](https://dox.uliege.be/index.php/s/VucYjQgHRkJ4dK7)
+* [17_la programmation en assembleur: introduction](https://dox.uliege.be/index.php/s/4nQOfTb4bDJlbTj)
+* [18_la programmation en assembleur: segment de données](https://dox.uliege.be/index.php/s/eS8KYlU1KtrkZK9)
+* [19_la programmation en assembleur: convention d'appel des fonctions](https://dox.uliege.be/index.php/s/5IHV83w0oNpsbNY)
+* [20_la programmation en assembleur: exemples supplémentaires](https://dox.uliege.be/index.php/s/ZkvAuEac4X2PU2V)
 
 
 ===== TP =====
