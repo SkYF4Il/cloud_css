@@ -6,7 +6,7 @@ Aide pour les étudiants en sciences informatique de l'université de l'Uliege.
 * Coordinator: B. Boigelot, bernard.boigelot@uliege.be
 * Teaching assistants: Thibault Gillis, T.Gillis@uliege.be
 
-## Course description
+## Description du cours
 Le cours couvre les matières suivantes:
 
 * Notion d'information et codage binaire de l'information.
@@ -14,22 +14,28 @@ Le cours couvre les matières suivantes:
 * Architecture d'un processeur (registres, mémoire de données et de programme, jeu d'instructions). 
 * Code machine, mécanisme d'exécution des instructions, modes d'adressage. Programmation en langage d'assemblage.
 
-## Advise
+## Conseils
 
-### During the semester 
+Dans ce cours, on aborde des sujets très importants dans le monde de l'informatique : la notion d'information ("c'est quoi une information exactement ?"), l'encodage binaire de celle-ci et l'architecture d'un processeur avec une introduction au langage Assembleur. Ce cours est étroitement lié à tous ceux relatifs à l'informatique puisqu'en fin de compte, toutes les informations présentes sur un ordinateur sont représentées de façon binaire.
 
-* étudier 
-* ouvrir son cours
-* avoir plus de 2 de QI
-* je troll bien évidement
+Les notions de ce cours sont notamment réeplorées dans des cours comme MATH2019 - Mathématiques pour l'informatique et ELEN0040 - Digital electronics en ce qui concerne la décomposition d'une information en binaire, ainsi que d'autres cours du 3e bloc pour ce qui est de l'Assembleur et de l'architecture d'un ordinateur.
 
-### Last chance
+### Durant le quadrimestre
 
-* il y en a pas fallait étudier mon gars
+* Cela va paraitre évidant mais étudier régulièreme est la manière la plus simple de réussir ce cours. 
+* Ainsi s'entrainer régulièrement sur les exercices du cours est une bonne manière de s'assurer de bien comprendre les notions abordées et d'arriver préparé à l'examen.
 
-## Contents
+* Pour la partie concernant l'Assembleur, entraine-toi à faire tous les exercices proposés en séances de TPs. C'est en forgeant qu'on devient forgeron, et n'oublie pas de toujours faire une découpe en sous problèmes et de bien structurer ton programme avant de te lancer dans le code, c'est une règle d'or.
 
-vous retrouverez ici tout ce que les prof ne veulent pas que vous ayez pour éviter votre réussite.
+* Aussi, concernant l'assembleur, ne t'y prends pas à la dernière minute. Ce n'est pas aussi intuitif que de programmer en langage C, il faut donc que tu aies le temps de t'adapter aux spécificités du langage.
+
+* Pense à compiler le code que tu écris et le lancer sur ton ordinateur pour tester ton programme. C'est simple, efficace, et pourtant peu d'étudiants prennent la peine de le faire.
+
+### Denière chance (Durant le blocus)
+
+* Si vous etes ici sachez que vous avez encore une chance de réussir ce cours. Toutes fois il faut bien comprends que ce conseils et pour ceux et celle qui pour une raison x ou y ont abandonné le cours. Ce conseils est la pour vous donner une chance de réussir ce cours. Mais il faut bien que vous compreniez que ce n'est pas une méthode viable pour réussir. Mais elle a le mérite de vous offrir de l'espoir et vous faire reprendre confiance en vous vis à vis de ce cours. Donc si après avoir suivi ce conseils et que vous ratez avec un 8 ou un 9 c'est une victoire et si vous réussissez vous verez que c'était pas si compliqué et la prochaine fois afin déviter ce stresse travaillé durant l'année! Le conseils est très simple vous avez [ici](https://github.com/uliegeCSS/cloud_css/tree/main/B1/Q2/Organisation_ordinateur/Exam) tous les anciens examens, il vous suffit de tous les refaire et comprendre ce que vous faites. Bien entendu si vous avez travaillé durant l'année vous pouvez toujours refaire tous les examens et vous serez près pour faire un 18/20 :) !
+
+## Outils pour le cours 
 
 ### Podcast
 
@@ -59,12 +65,12 @@ vous retrouverez ici tout ce que les prof ne veulent pas que vous ayez pour évi
 
 ===== TP =====
 
-rien pour le moment 
+En cliquant [ici](https://github.com/uliegeCSS/cloud_css/tree/main/B1/Q2/Organisation_ordinateur/TP/2020) vous aurez accès au TP de l'année 2020-2021.
 
 ### Course slides
 
-
-rien pour le moment 
+En cliquant [ici](https://github.com/uliegeCSS/cloud_css/blob/main/B1/Q2/Organisation_ordinateur/Support/org-slides-2022.pdf) vous aurez accès au slides de cet année.
+En cliquant [ici](https://github.com/uliegeCSS/cloud_css/blob/main/B1/Q2/Organisation_ordinateur/Support/2020%20-%20Tome%20I.pdf) vous aurez accès au livre de référence de l'année 2020-2021.
 
 ### Others
 
@@ -73,4 +79,4 @@ rien pour le moment
 
 #### Synthesis
 
-rien pour le moment 
+En cliquant [ici](https://github.com/uliegeCSS/cloud_css/tree/main/B1/Q2/Organisation_ordinateur/Syntheses) vous aurez une multitude de synthèses. Attention toutes fois nous n'avons toujours pas eu le temps de "valider" une synthèse en particulier. Donc si vous avez suivis ce cours et que vous trouvez qu'une certaine synthèse vous a bien été utile faite le nous avoir merci ^^.
