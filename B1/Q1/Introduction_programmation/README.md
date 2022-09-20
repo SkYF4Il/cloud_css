@@ -12,45 +12,56 @@ Le cours alterne entre les aspects propres au langage C et les aspects algorithm
 
 Les thèmes abordés sont les suivants:
 
-syntaxe et sémantique de base du langage C
-algorithmes simples (parcours linéaire d'un tableau, opération mathématique cumulative, recherche dichotomique, introduction aux problèmes de tri)
-découpe en sous-problèmes et introduction à la méthodologie de développement (analyse du problème, invariant, fonction de terminaison)
-analyse d'un algorithme (complexité)
-structure de données de base (enregistrement, tableau, chaîne de caractères, fichiers)
-modularité d'un programme (fonction/procédure, variable globale) et documentation du code par spécifications (programmation défensive)
-pointeurs et allocation dynamique de mémoire. 
+*syntaxe et sémantique de base du langage C
+*algorithmes simples (parcours linéaire d'un tableau, opération mathématique cumulative, recherche dichotomique, introduction aux problèmes de tri)
+*découpe en sous-problèmes et introduction à la méthodologie de développement (analyse du problème, invariant, fonction de terminaison)
+*analyse d'un algorithme (complexité)
+*structure de données de base (enregistrement, tableau, chaîne de caractères, fichiers)
+*modularité d'un programme (fonction/procédure, variable globale) et documentation du code par spécifications (programmation défensive)
+*pointeurs et allocation dynamique de mémoire. 
 
 La structure du cours est la suivante:
 
 Introduction
-* [Chapitre 1: Bloc, Variable, Instruction Simple]
-* [Chapitre 2: Structures de Contrôle]
-* [Chapitre 3: Méthodologie de Développement]
-* [Chapitre 4: Introduction à la Complexité]
-* [Chapitre 5: Structures de Données]
-* [Chapitre 6: Modularité du Code]
-* [Chapitre 7: Pointeurs]
-* [Chapitre 8: Allocation Dynamique]
+* [Chapitre 1: Bloc, Variable, Instruction Simple](https://github.com/SkYF4Il/cloud_css/blob/main/B1/Q1/Introduction_programmation/Slides/1_Bloc_Variable_Instruction.pdf)
+* [Chapitre 2: Structures de Contrôle](https://github.com/SkYF4Il/cloud_css/blob/main/B1/Q1/Introduction_programmation/Slides/2_Structures_Controle.pdf)
+* [Chapitre 3: Méthodologie de Développement](https://github.com/SkYF4Il/cloud_css/blob/main/B1/Q1/Introduction_programmation/Slides/3_Methodologie.pdf)
+* [Chapitre 4: Introduction à la Complexité](https://github.com/SkYF4Il/cloud_css/blob/main/B1/Q1/Introduction_programmation/Slides/4_Complexite.pdf)
+* [Chapitre 5: Structures de Données](https://github.com/SkYF4Il/cloud_css/blob/main/B1/Q1/Introduction_programmation/Slides/5_Structures_Donnees.pdf)
+* [Chapitre 6: Modularité du Code](https://github.com/SkYF4Il/cloud_css/blob/main/B1/Q1/Introduction_programmation/Slides/6_Modularite_Code.pdf)
+* [Chapitre 7: Pointeurs](https://github.com/SkYF4Il/cloud_css/blob/main/B1/Q1/Introduction_programmation/Slides/7_Pointeurs.pdf)
+* [Chapitre 8: Allocation Dynamique](https://github.com/SkYF4Il/cloud_css/blob/main/B1/Q1/Introduction_programmation/Slides/8_Allocation_Dynamique.pdf)
 ## Conseils
 
-Dans ce cours, on aborde des sujets très importants dans le monde de l'informatique : la notion d'information ("c'est quoi une information exactement ?"), l'encodage binaire de celle-ci et l'architecture d'un processeur avec une introduction au langage Assembleur. Ce cours est étroitement lié à tous ceux relatifs à l'informatique puisqu'en fin de compte, toutes les informations présentes sur un ordinateur sont représentées de façon binaire.
+Avec le cours INFO0947 - Compléments de programmation, ce cours est un des plus importants de ta première année, et peut-être même de la suite de ton cursus aussi. En plus de t'introduire au monde de la programmation et de la gestion de la mémoire d'un ordinateur, il t'apprend un concept essentiel qui se retrouve dans tous les autres cours de ton parcours : comment trouver une solution à un problème. La page officielle de ce cours est très complète et explique les objectifs de celui-ci dans la partie "Acquis d'apprentissage", jettes-y un oeil !
 
-Les notions de ce cours sont notamment réeplorées dans des cours comme MATH2019 - Mathématiques pour l'informatique et ELEN0040 - Digital electronics en ce qui concerne la décomposition d'une information en binaire, ainsi que d'autres cours du 3e bloc pour ce qui est de l'Assembleur et de l'architecture d'un ordinateur.
+"Résoudre un problème", c'est quelque chose qui peut sembler anodin au premier abord. Car après tout, on se dit que c'est assez intuitif, on fait ça tous les jours dans plein de situations différentes. Mais ce cours te permet de le faire d'une façon très efficace, en t'apprenant une méthodologie de travail qui te sera utile dans tous tes autres cours de programmation, et même ailleurs. En effet, comprendre comment n'importe quel "gros problème" se décompose en un ensemble de plein de petits sous-problèmes, c'est un life changer. C'est quelque chose qui peut être extrapolé dans tes cours de physique, par exemple, où on apprend que pour résoudre un problème en deux dimensions (avec par exemple la distance en x et la hauteur en y), il suffit de décomposer ce problème en deux sous-problèmes d'une dimension, et les résoudre séparément pour obtenir une solution générale. C'est une stratégie Diviser pour régner et c'est quelque chose de primordial dans nos études en Sciences Info, et plus généralement, dans n'importe quelles études qui nécessitent de trouver une solution efficace à un problème.
+
+Un autre concept très important du cours est celui de la construction d'une solution par invariant. C'est un outil dont on va beaucoup parler, qui reviendra tout le temps dans ce cours (et dans INFO0947 - Compléments de programmation) et qui s'avère être très utile une fois qu'on arrive à l'utiliser correctement.
+
+Finalement, ce cours t'apprend trois qualités très utiles dans tes études : la rigueur, la persévérance et l'autonomie. Face à un ordinateur, il faut savoir être rigoureux car la moindre erreur peut faire planter un programme. Cette même rigueur se retrouve dans le respect des consignes de n'importe quel travail universitaire, allant du simple exercice jusqu'aux examens. La persévérance, c'est le fait de se relever et d'aller de l'avant lorsqu'on est confrontés à un échec. Ce cours t'apprend à ne pas baisser les bras et à apprendre de tes erreurs pour aborder la prochaine épreuve en étant encore plus efficace. Enfin, l'autonomie est la qualité #1 de l'étudiant universitaire. Se pousser à travailler, en étant curieux, pouvoir se dire "allez, je m'y mets", et établir un horaire de travail, ce sont des compétences à acquérir au plus vite. Et ça tombe bien, ce cours est là pour t'aider à y parvenir !
 
 ### Durant le quadrimestre
 
-* Cela va paraitre évidant mais étudier régulièreme est la manière la plus simple de réussir ce cours. 
-* Ainsi s'entrainer régulièrement sur les exercices du cours est une bonne manière de s'assurer de bien comprendre les notions abordées et d'arriver préparé à l'examen.
-
-* Pour la partie concernant l'Assembleur, entraine-toi à faire tous les exercices proposés en séances de TPs. C'est en forgeant qu'on devient forgeron, et n'oublie pas de toujours faire une découpe en sous problèmes et de bien structurer ton programme avant de te lancer dans le code, c'est une règle d'or.
-
-* Aussi, concernant l'assembleur, ne t'y prends pas à la dernière minute. Ce n'est pas aussi intuitif que de programmer en langage C, il faut donc que tu aies le temps de t'adapter aux spécificités du langage.
-
-* Pense à compiler le code que tu écris et le lancer sur ton ordinateur pour tester ton programme. C'est simple, efficace, et pourtant peu d'étudiants prennent la peine de le faire.
+* Utilise le forum eCampus ! Il est là pour te permettre de poser tes questions, et proposer des solutions alternatives à des exercices, en permettant à tous les autres étudiants de participer à la discussion.
+* Profite de tous les GameCode ! Ce sont des exercices synthétiques ludiques à faire à chaque fin de chapitre, et sont une excellente façon de comprendre si tu as bien compris le contenu d'un chapitre ou pas. Ils reviennent sur des éléments clés vus dans chaque chapitre, il est donc très important de bien les faire jusqu'au bout et de ne pas te contenter de les lire.
+* Teste tes exercices sur ton ordinateur. Trop peu d'étudiants le font, et pourtant, tu peux tester toutes tes solutions grâce à ton ordinateur. De plus, ça te permettra de t'habituer aux messages d'erreurs et te préparera au mieux pour les projets des autres cours (et les challenges de ce cours-ci).
+* "Un dessin vaut mieux qu'un long discours" - une représentation visuelle du problème aide énormément à le comprendre et à trouver une solution. N'hésite pas à le faire le plus souvent possible !
+* Revois la matière avant chaque séance d'exercices. C'est très important d'avoir la matière théorique du cours en tête avant de commencer à t'exercer, sinon tu risques de juste perdre deux heures de ta journée.
+* Ne néglige pas les challenges, et surtout, fais-les tous. Ils te préparent très bien à l'examen et te donnent une bonne idée de ce que tu dois être capable de réaliser.
+* En plus de faire tous les challenges, fais les seul. Le plagiat est très facilement détecté dans ce type d'exercices, et chaque année, des tas d'étudiants qui pensent passer inaperçus se font attraper et finissent sanctionnés. Le plagiat est pris très au sérieux à l'ULiège.
+* Fais les exercices proposés dans les slides théoriques, et envoie ta solution au professeur ou à l'assistant. Ils te permettent de voir si tu as bien compris la matière du chapitre, et sont souvent des exercices très intéressants.
+* Google va devenir ton meilleur ami. Dès que tu ne comprends pas un message d'erreur, ou dès que tu as un doute, lis les documentations proposées sur internet et reste proactif. Ne te laisse pas décourager quand tu ne comprends pas quelque chose et fais des recherches éclairer ta propre lanterne ! D'ailleurs, habitue-toi à faire des recherches en anglais sur Internet; il y a généralement beaucoup plus de résultats.
+* Ton deuxième meilleur ami, c'est un crayon avec du papier. Le but du cours est de t'apprendre à réfléchir avant d'agir, donc ne te lance pas dans l'écriture d'un programme la tête baissée, mais applique la méthodologie donnée en cours. Fais une découpe en sous-problèmes, pense à ton objectif, applique la construction par invariant de boucle, et ENSUITE, une fois que tu as une bonne solution sur papier, passe au code... C'est d'ailleurs principalement sur la méthodologie que tu es évalué à l'examen et non sur l'écriture du code.
+* Ne néglige pas __l'invariant de boucle__. C'est un outil très utile et puissant, à condition de comprendre comment l'utiliser. Dès que cette matière est abordée dans le cours, reste attentif et fais les exercices supplémentaires proposés.
+Prépare-toi aux QCM et à l'interrogation de mi-quadri pour ne pas te laisser dépasser par la matière. Ils sont très formateurs et te permettent d'évaluer ton niveau de compréhension régulièrement.
+* Participe à toutes les séances théoriques et aux séances d'exercices. Elles sont très importantes, les slides risquent de ne pas suffir à bien comprendre la matière sans explications orales données en même temps. Et lors des TPs, tu as la chance de pouvoir poser tes questions au professeur, à l'assistant, et aux étudiants moniteurs qui sont à ta disposition durant toute la séance de travail.
 
 ### Denière chance (Durant le blocus)
 
-* Si vous etes ici sachez que vous avez encore une chance de réussir ce cours. Toutes fois il faut bien comprendre que ce conseil est pour ceux et celle qui pour une raison x ou y ont abandonné le cours. Ce conseil est la pour vous donner une chance de réussir ce cours. Mais il faut bien comprendre que ce n'est pas une méthode viable pour réussir. Mais elle a le mérite de vous offrir de l'espoir et vous faire reprendre confiance en vous vis à vis de ce cours. Donc si après avoir suivi ce conseils mais que vous ratez avec un 8 ou un 9 c'est une victoire et si vous réussissez vous verez que c'était pas si compliqué et la prochaine fois afin déviter ce stresse travaillé durant l'année! Le conseils est très simple vous avez [ici](https://github.com/uliegeCSS/cloud_css/tree/main/B1/Q2/Organisation_ordinateur/Exam) tous les anciens examens, il vous suffit de tous les refaire et comprendre ce que vous faites. Bien entendu si vous avez travaillé durant l'année vous pouvez toujours refaire tous les examens et vous serez prèt pour faire un 18/20 :) !
+* Malheureusement ici tu n'auras pas comme certain cours une dernière chance. Le cours est bien trop important et complexe. Toutes fois si on devait tout de meme te donner un dernier conseils revois les pointeurs et les allocations dynamiques. C'est le point le plus important du cours et le plus difficile à comprendre.
+* Les invarians ont une place assez importante dans le cours et donc ca sera le cas a l'examen. Une source de points "facile" si ceux-ci sont maitrisé. 
+* Revois la structure des anciens examens car celle-ci reste assez similaire au cours des années.
 
 ## Outils pour le cours 
 
@@ -58,42 +69,21 @@ Les notions de ce cours sont notamment réeplorées dans des cours comme MATH201
 
 ===== Theory =====
 
-* [1_l'information](https://dox.uliege.be/index.php/s/Ncn5QkInQJZrPJW)
-* [2_la quantité d'information](https://dox.uliege.be/index.php/s/AejVas72Y0ymVoW)
-* [3_lareprésentation binaire des nombres](https://dox.uliege.be/index.php/s/WlT3mWj9E3xvZP8)
-* [4_la représentation des nombres entiers signés](https://dox.uliege.be/index.php/s/9cIrZjo1oprtfel)
-* [5_la représentation par complément à deux](https://dox.uliege.be/index.php/s/wUCg5zbjEGn2bGg)
-* [6_la représentation des nombres réels](https://dox.uliege.be/index.php/s/R8R01vtk9lKH65G)
-* [7_la virgule flottante](https://dox.uliege.be/index.php/s/iqfGqfI2WGDnYUv)
-* [8_la représentation des caractères](https://dox.uliege.be/index.php/s/EG9CSkM7HSSHl4A)
-* [9_les composants de l'ordinateu](https://dox.uliege.be/index.php/s/5JE5Y2Sq1F3Ek45)
-* [10_l'adressage, l'alignement, et la structure du processeur](https://dox.uliege.be/index.php/s/1ZSQBAvKR50USzW)
-* [11_le fonctionnement du processeur](https://dox.uliege.be/index.php/s/KTYgegbDT9AJUDk)
-* [12_l'architecture x86-64: registres et modes d'adressage](https://dox.uliege.be/index.php/s/92ip0gqNNfJAfvT)
-* [13_l'architecture x86-64: manipulation des données et opérations arithmétiques](https://dox.uliege.be/index.php/s/bLAHJSOUh08PoZc)
-* [14_l'architecture x86-64: instructions logiques](https://dox.uliege.be/index.php/s/dk7dZm13S8GXFje)
-* [15_l'architecture x86-64: gestion de la pile](https://dox.uliege.be/index.php/s/dMG2vojLc64ODRU)
-* [16_l'architecture x86-64: instructions de contrôle](https://dox.uliege.be/index.php/s/VucYjQgHRkJ4dK7)
-* [17_la programmation en assembleur: introduction](https://dox.uliege.be/index.php/s/4nQOfTb4bDJlbTj)
-* [18_la programmation en assembleur: segment de données](https://dox.uliege.be/index.php/s/eS8KYlU1KtrkZK9)
-* [19_la programmation en assembleur: convention d'appel des fonctions](https://dox.uliege.be/index.php/s/5IHV83w0oNpsbNY)
-* [20_la programmation en assembleur: exemples supplémentaires](https://dox.uliege.be/index.php/s/ZkvAuEac4X2PU2V)
 
 
 ===== TP =====
 
-En cliquant [ici](https://github.com/uliegeCSS/cloud_css/tree/main/B1/Q2/Organisation_ordinateur/TP/2020) vous aurez accès aux TPs de l'année 2020-2021.
+En cliquant [ici](https://github.com/SkYF4Il/cloud_css/tree/main/B1/Q1/Introduction_programmation/TP_Covid) tu as accès aux TPs de l'année 2020-2021 qui est une année covid mais avec d'exellent TPs ou tu es ammené à etre acteurs durant le TP.
 
 ### Course slides
 
-En cliquant [ici](https://github.com/uliegeCSS/cloud_css/blob/main/B1/Q2/Organisation_ordinateur/Support/org-slides-2022.pdf) vous aurez accès aux slides de cet année.
-En cliquant [ici](https://github.com/uliegeCSS/cloud_css/blob/main/B1/Q2/Organisation_ordinateur/Support/2020%20-%20Tome%20I.pdf) vous aurez accès au livre de référence de l'année 2020-2021.
+En cliquant [ici](https://github.com/SkYF4Il/cloud_css/tree/main/B1/Q1/Introduction_programmation/Slides) tu as accès aux slides de cette année.
+
 
 ### Others
-
 
 rien pour le moment 
 
 #### Synthesis
 
-En cliquant [ici](https://github.com/uliegeCSS/cloud_css/tree/main/B1/Q2/Organisation_ordinateur/Syntheses) vous aurez une multitude de synthèses. Attention toutes fois nous n'avons toujours pas eu le temps de "valider" une synthèse en particulier. Donc si vous avez suivis ce cours et que vous trouvez qu'une certaine synthèse vous a bien été utile faite le nous avoir merci ^^.
+Pour ce cours il n'existe pas de synthèses. Vous devez mal heureusement vous baser sur tous les slides du cours.
