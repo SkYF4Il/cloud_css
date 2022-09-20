@@ -1,10 +1,10 @@
 # Organisation des ordinateurs
-Aide pour les étudiants en sciences informatique de l'université de l'Uliege.
+Aide pour les étudiants en sciences informatiques de l'université de l'Uliege.
 
 ## Contact
 
 * Coordinator: B. Boigelot, bernard.boigelot@uliege.be
-* Teaching assistants: Thibault Gillis, T.Gillis@uliege.be
+* Teaching assistant: Thibault Gillis, T.Gillis@uliege.be
 
 ## Description du cours
 Le cours couvre les matières suivantes:
@@ -16,13 +16,13 @@ Le cours couvre les matières suivantes:
 
 ## Conseils
 
-Dans ce cours, on aborde des sujets très importants dans le monde de l'informatique : la notion d'information ("c'est quoi une information exactement ?"), l'encodage binaire de celle-ci et l'architecture d'un processeur avec une introduction au langage Assembleur. Ce cours est étroitement lié à tous ceux relatifs à l'informatique puisqu'en fin de compte, toutes les informations présentes sur un ordinateur sont représentées de façon binaire.
+Dans ce cours, on aborde des sujets très importants du monde de l'informatique : la notion d'information ("c'est quoi une information exactement ?"), l'encodage binaire de celle-ci et l'architecture d'un processeur avec une introduction au langage Assembleur. Ce cours est étroitement lié à tous ceux relatifs à l'informatique puisqu'en fin de compte, toutes les informations présentes sur un ordinateur sont représentées de façon binaire.
 
-Les notions de ce cours sont notamment réeplorées dans des cours comme MATH2019 - Mathématiques pour l'informatique et ELEN0040 - Digital electronics en ce qui concerne la décomposition d'une information en binaire, ainsi que d'autres cours du 3e bloc pour ce qui est de l'Assembleur et de l'architecture d'un ordinateur.
+Les notions de ce cours sont notamment réexplorées dans des cours comme MATH2019 - Mathématiques pour l'informatique et ELEN0040 - Digital electronics en ce qui concerne la décomposition d'une information en binaire, ainsi que d'autres cours du 3e bloc pour ce qui est de l'Assembleur et de l'architecture d'un ordinateur.
 
 ### Durant le quadrimestre
 
-* Cela va paraitre évidant mais étudier régulièreme est la manière la plus simple de réussir ce cours. 
+* Cela va paraitre évident mais étudier régulièrement est la manière la plus simple de réussir ce cours. 
 * Ainsi s'entrainer régulièrement sur les exercices du cours est une bonne manière de s'assurer de bien comprendre les notions abordées et d'arriver préparé à l'examen.
 * Pour la partie concernant l'Assembleur, entraine-toi à faire tous les exercices proposés en séances de TPs. C'est en forgeant qu'on devient forgeron, et n'oublie pas de toujours faire une découpe en sous problèmes et de bien structurer ton programme avant de te lancer dans le code, c'est une règle d'or.
 * Aussi, concernant l'assembleur, ne t'y prends pas à la dernière minute. Ce n'est pas aussi intuitif que de programmer en langage C, il faut donc que tu aies le temps de t'adapter aux spécificités du langage.
@@ -30,7 +30,7 @@ Les notions de ce cours sont notamment réeplorées dans des cours comme MATH201
 
 ### Denière chance (Durant le blocus)
 
-* Si tu es ici sache que tu as encore une chance de réussir ce cours. Toutes fois il faut bien comprendre que ce conseil est pour ceux et celle qui pour une raison x ou y ont abandonné le cours. Ce conseil est la pour te donner une chance de réussir ce cours. Mais il faut bien comprendre que ce n'est pas une méthode viable pour réussir. Mais elle a le mérite de tu offrir de l'espoir et tu faire reprendre confiance en tu vis à vis de ce cours. Donc si après avoir suivi ce conseils mais que tu rates avec un 8 ou un 9 c'est une victoire et si tu réussis tu verras que c'était pas si compliqué et la prochaine fois afin déviter ce stresse tu travailleras durant l'année! Le conseils est très simple tu as [ici](https://github.com/uliegeCSS/cloud_css/tree/main/B1/Q2/Organisation_ordinateur/Exam) tous les anciens examens, il te suffit de tous les refaire et comprendre ce que tu fais. Bien entendu si tu as travaillé durant l'année tu pourras toujours refaire tous les examens et tu seras prèt pour faire un 18/20 :) !
+* Si tu es ici sache que tu as encore une chance de réussir ce cours. Toutefois il faut bien comprendre que ce conseil est pour ceux et celles qui, pour une raison x ou y, ont abandonné le cours. Ce conseil est la pour te donner une chance de réussir ce cours. Il faut bien comprendre que ce n'est pas une méthode viable pour réussir. Mais elle a le mérite de t'offrir de l'espoir et te faire reprendre confiance en toi vis à vis de ce cours. Donc si après avoir suivi ce conseil mais que tu rates avec un 8 ou un 9 c'est une victoire et si tu réussis tu verras que ce n'était pas si compliqué et la prochaine fois afin déviter ce stresse, tu travailleras durant l'année! Le conseils est très simple: tu as [ici](https://github.com/uliegeCSS/cloud_css/tree/main/B1/Q2/Organisation_ordinateur/Exam) tous les anciens examens, il te suffit de tous les refaire et comprendre ce que tu fais. Bien entendu si tu as travaillé durant l'année tu pourras toujours refaire tous les examens et tu seras prèt pour faire un 18/20 :) !
 
 ## Outils pour le cours 
 
@@ -76,4 +76,4 @@ rien pour le moment
 
 #### Synthesis
 
-En cliquant [ici](https://github.com/uliegeCSS/cloud_css/tree/main/B1/Q2/Organisation_ordinateur/Syntheses) tu as une multitude de synthèses. Attention toutes fois nous n'avons toujours pas eu le temps de "valider" une synthèse en particulier. Donc si tu as suivis ce cours et que tu trouves qu'une certaine synthèse t'a bien été utile faite le nous avoir merci ^^.
+En cliquant [ici](https://github.com/uliegeCSS/cloud_css/tree/main/B1/Q2/Organisation_ordinateur/Syntheses) tu as une multitude de synthèses. Attention toutefois, nous n'avons toujours pas eu le temps de "valider" une synthèse en particulier. Donc si tu as suivis ce cours et que tu trouves qu'une certaine synthèse t'a bien été utile faite le nous avoir merci !
