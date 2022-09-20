@@ -24,16 +24,13 @@ Les notions de ce cours sont notamment réeplorées dans des cours comme MATH201
 
 * Cela va paraitre évidant mais étudier régulièreme est la manière la plus simple de réussir ce cours. 
 * Ainsi s'entrainer régulièrement sur les exercices du cours est une bonne manière de s'assurer de bien comprendre les notions abordées et d'arriver préparé à l'examen.
-
 * Pour la partie concernant l'Assembleur, entraine-toi à faire tous les exercices proposés en séances de TPs. C'est en forgeant qu'on devient forgeron, et n'oublie pas de toujours faire une découpe en sous problèmes et de bien structurer ton programme avant de te lancer dans le code, c'est une règle d'or.
-
 * Aussi, concernant l'assembleur, ne t'y prends pas à la dernière minute. Ce n'est pas aussi intuitif que de programmer en langage C, il faut donc que tu aies le temps de t'adapter aux spécificités du langage.
-
 * Pense à compiler le code que tu écris et le lancer sur ton ordinateur pour tester ton programme. C'est simple, efficace, et pourtant peu d'étudiants prennent la peine de le faire.
 
 ### Denière chance (Durant le blocus)
 
-* Si vous etes ici sachez que vous avez encore une chance de réussir ce cours. Toutes fois il faut bien comprendre que ce conseil est pour ceux et celle qui pour une raison x ou y ont abandonné le cours. Ce conseil est la pour vous donner une chance de réussir ce cours. Mais il faut bien comprendre que ce n'est pas une méthode viable pour réussir. Mais elle a le mérite de vous offrir de l'espoir et vous faire reprendre confiance en vous vis à vis de ce cours. Donc si après avoir suivi ce conseils mais que vous ratez avec un 8 ou un 9 c'est une victoire et si vous réussissez vous verez que c'était pas si compliqué et la prochaine fois afin déviter ce stresse travaillé durant l'année! Le conseils est très simple vous avez [ici](https://github.com/uliegeCSS/cloud_css/tree/main/B1/Q2/Organisation_ordinateur/Exam) tous les anciens examens, il vous suffit de tous les refaire et comprendre ce que vous faites. Bien entendu si vous avez travaillé durant l'année vous pouvez toujours refaire tous les examens et vous serez prèt pour faire un 18/20 :) !
+* Si tu es ici sache que tu as encore une chance de réussir ce cours. Toutes fois il faut bien comprendre que ce conseil est pour ceux et celle qui pour une raison x ou y ont abandonné le cours. Ce conseil est la pour te donner une chance de réussir ce cours. Mais il faut bien comprendre que ce n'est pas une méthode viable pour réussir. Mais elle a le mérite de tu offrir de l'espoir et tu faire reprendre confiance en tu vis à vis de ce cours. Donc si après avoir suivi ce conseils mais que tu rates avec un 8 ou un 9 c'est une victoire et si tu réussis tu verras que c'était pas si compliqué et la prochaine fois afin déviter ce stresse tu travailleras durant l'année! Le conseils est très simple tu as [ici](https://github.com/uliegeCSS/cloud_css/tree/main/B1/Q2/Organisation_ordinateur/Exam) tous les anciens examens, il te suffit de tous les refaire et comprendre ce que tu fais. Bien entendu si tu as travaillé durant l'année tu pourras toujours refaire tous les examens et tu seras prèt pour faire un 18/20 :) !
 
 ## Outils pour le cours 
 
@@ -65,12 +62,12 @@ Les notions de ce cours sont notamment réeplorées dans des cours comme MATH201
 
 ===== TP =====
 
-En cliquant [ici](https://github.com/uliegeCSS/cloud_css/tree/main/B1/Q2/Organisation_ordinateur/TP/2020) vous aurez accès aux TPs de l'année 2020-2021.
+En cliquant [ici](https://github.com/uliegeCSS/cloud_css/tree/main/B1/Q2/Organisation_ordinateur/TP/2020) tu as accès aux TPs de l'année 2020-2021.
 
 ### Course slides
 
-En cliquant [ici](https://github.com/uliegeCSS/cloud_css/blob/main/B1/Q2/Organisation_ordinateur/Support/org-slides-2022.pdf) vous aurez accès aux slides de cet année.
-En cliquant [ici](https://github.com/uliegeCSS/cloud_css/blob/main/B1/Q2/Organisation_ordinateur/Support/2020%20-%20Tome%20I.pdf) vous aurez accès au livre de référence de l'année 2020-2021.
+En cliquant [ici](https://github.com/uliegeCSS/cloud_css/blob/main/B1/Q2/Organisation_ordinateur/Support/org-slides-2022.pdf) tu as accès aux slides de cet année.
+En cliquant [ici](https://github.com/uliegeCSS/cloud_css/blob/main/B1/Q2/Organisation_ordinateur/Support/2020%20-%20Tome%20I.pdf) tu as accès au livre de référence de l'année 2020-2021.
 
 ### Others
 
@@ -79,4 +76,4 @@ rien pour le moment
 
 #### Synthesis
 
-En cliquant [ici](https://github.com/uliegeCSS/cloud_css/tree/main/B1/Q2/Organisation_ordinateur/Syntheses) vous aurez une multitude de synthèses. Attention toutes fois nous n'avons toujours pas eu le temps de "valider" une synthèse en particulier. Donc si vous avez suivis ce cours et que vous trouvez qu'une certaine synthèse vous a bien été utile faite le nous avoir merci ^^.
+En cliquant [ici](https://github.com/uliegeCSS/cloud_css/tree/main/B1/Q2/Organisation_ordinateur/Syntheses) tu as une multitude de synthèses. Attention toutes fois nous n'avons toujours pas eu le temps de "valider" une synthèse en particulier. Donc si tu as suivis ce cours et que tu trouves qu'une certaine synthèse t'a bien été utile faite le nous avoir merci ^^.
