@@ -65,11 +65,11 @@ Les notions de ce cours sont notamment réeplorées dans des cours comme MATH201
 
 ===== TP =====
 
-En cliquant [ici](https://github.com/uliegeCSS/cloud_css/tree/main/B1/Q2/Organisation_ordinateur/TP/2020) vous aurez accès au TP de l'année 2020-2021.
+En cliquant [ici](https://github.com/uliegeCSS/cloud_css/tree/main/B1/Q2/Organisation_ordinateur/TP/2020) vous aurez accès aux TPs de l'année 2020-2021.
 
 ### Course slides
 
-En cliquant [ici](https://github.com/uliegeCSS/cloud_css/blob/main/B1/Q2/Organisation_ordinateur/Support/org-slides-2022.pdf) vous aurez accès au slides de cet année.
+En cliquant [ici](https://github.com/uliegeCSS/cloud_css/blob/main/B1/Q2/Organisation_ordinateur/Support/org-slides-2022.pdf) vous aurez accès aux slides de cet année.
 En cliquant [ici](https://github.com/uliegeCSS/cloud_css/blob/main/B1/Q2/Organisation_ordinateur/Support/2020%20-%20Tome%20I.pdf) vous aurez accès au livre de référence de l'année 2020-2021.
 
 ### Others
